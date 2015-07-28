@@ -1,0 +1,7 @@
+C:\Users\t-alexad\Source\Repos\InternIOTHack\Resources\LED Sample\remote-wiring\Microsoft.Maker.win10\Microsoft.Maker.Firmata\Microsoft.Maker.Firmata.vcxproj;arm
+C:\Users\t-alexad\Source\Repos\InternIOTHack\Resources\LED Sample\remote-wiring\Microsoft.Maker.win10\Microsoft.Maker.Firmata\Microsoft.Maker.Firmata.vcxproj;arm
+C:\Users\t-alexad\Source\Repos\InternIOTHack\Resources\LED Sample\remote-wiring\Microsoft.Maker.win10\Microsoft.Maker.RemoteWiring\Microsoft.Maker.RemoteWiring.vcxproj;arm
+C:\Users\t-alexad\Source\Repos\InternIOTHack\Resources\LED Sample\remote-wiring\Microsoft.Maker.win10\Microsoft.Maker.Serial\Microsoft.Maker.Serial.vcxproj;arm
+C:\Users\t-alexad\Source\Repos\InternIOTHack\Resources\LED Sample\remote-wiring\Microsoft.Maker.win10\Microsoft.Maker.Serial\Microsoft.Maker.Serial.vcxproj;arm
+C:\Users\t-alexad\Source\Repos\InternIOTHack\Resources\LED Sample\remote-wiring\Microsoft.Maker.win10\Microsoft.Maker.Serial\Microsoft.Maker.Serial.vcxproj;arm
+C:\Users\t-alexad\Source\Repos\InternIOTHack\Resources\LED Sample\wra-neopixel-control\wra-neopixel-control\wra-neopixel-control.csproj;arm
